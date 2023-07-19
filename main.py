@@ -203,6 +203,7 @@ while True:
         break
     elif string == "\\":
         print("EXITING...")
+        break
     else:
         print("Wrong input!")
     
