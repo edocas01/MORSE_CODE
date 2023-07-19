@@ -1,2 +1,2 @@
 # MORSE_CODE
-Useful file to learn the morse code
+Useful script to learn the morse code using phrase given by user.
