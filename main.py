@@ -30,7 +30,7 @@ def read_file(file_name):
         names.append(alphabet[0:alphabet.find("\n")])
         alphabet = alphabet[alphabet.find("\n")+1:]
         index += 1
-        if letters[-1] == "Z":
+        if letters[-1] == "/":
             break
     return letters, codes, names
 
